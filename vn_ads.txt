@@ -1,4 +1,5 @@
-adnetwork.adasiaholdings.com
-admicro.vn
-polyad.net
-lavanetwork.net
+# Vietnamese advertisement
+127.0.0.1	adnetwork.adasiaholdings.com
+127.0.0.1	admicro.vn
+127.0.0.1	polyad.net
+127.0.0.1	lavanetwork.net

@@ -1,8 +1,10 @@
-360game.vn
-gamevui.vn
-zapmeta.com.vn
-game24h.vn
-choigame.biz
-nhatnhiba.com
-luyengame.com
-trochoi.net
+# Hosts file
+# Game online, Webgame
+127.0.0.1	360game.vn
+127.0.0.1	gamevui.vn
+127.0.0.1	zapmeta.com.vn
+127.0.0.1	game24h.vn
+127.0.0.1	choigame.biz
+127.0.0.1	nhatnhiba.com
+127.0.0.1	luyengame.com
+127.0.0.1	trochoi.net
