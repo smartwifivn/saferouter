@@ -8,17 +8,17 @@ Preferred DNS Server: 208.67.222.123
 Alternate DNS Server: 208.67.220.123
 
 2. Norton ConnectSafe
-### Security
-Preferred DNS Server: 198.153.192.40
-Alternate DNS Server: 198.153.194.40
+  **Security**
+  * Preferred DNS Server: 198.153.192.40
+  * Alternate DNS Server: 198.153.194.40
 
-### Security + Pornography
-Preferred DNS Server: 198.153.192.50
-Alternate DNS Server: 198.153.194.50
+  **Security + Pornography**
+  * Preferred DNS Server: 198.153.192.50
+  * Alternate DNS Server: 198.153.194.50
 
-### Security + Pornography + Non-Family Friendly
-Preferred DNS Server: 198.153.192.60
-Alternate DNS Server: 198.153.194.60
+  **Security + Pornography + Non-Family Friendly**
+  * Preferred DNS Server: 198.153.192.60
+  * Alternate DNS Server: 198.153.194.60
 
 3. MetaCert DNS
 Preferred DNS Server: 184.169.223.35
